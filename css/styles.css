@@ -1,0 +1,197 @@
+body
+{
+	margin: 0px;
+	text-align: center;
+	line-height: 2;
+}
+.top-container
+{
+	padding-top: 100px;
+	background-color: #dbdbdb;
+}
+.top-cloud
+{
+	position: absolute;
+	top: 120px;
+	right: 300px;
+}
+.bottom-cloud
+{
+	position: absolute;
+	top: 350px;
+}
+.heading1
+{
+	font-size: 90px;
+	color: #66BFBF;
+	font-size: 75px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 0;
+}
+p
+{
+	font-size: 20px;
+	color: #40514E;
+
+}
+.mountain
+{
+	margin-top: 100px;
+}
+.minion
+{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	position: absolute;
+	top: 20px;
+	left: 200px;
+}
+.s1
+{
+	top: 50px;
+	position: absolute;
+	right: 90px;
+	font-size: 20px;
+}
+.s2
+{
+    top: 50px;
+	position: absolute;
+	right: 160px;
+	font-size: 20px;	
+}
+.s3
+{
+	top: 50px;
+	position: absolute;
+	right: 20px;
+	font-size: 20px;
+}
+.designation
+{
+	margin-top: 0;
+	font-size:30px;
+	font-weight: normal;
+	color: #66BFBF;
+    font-family: 'Rubik', sans-serif;
+}
+.profile-pic
+{
+	border-radius: 100%;
+	height: 150px;
+	width: 150px;
+	margin-top: 70px;
+}
+h2
+{
+	font-size: 35px;
+	font-family:'Rubik', sans-serif;
+	color:#66BFBF ; 
+}
+hr
+{
+	margin-top:80px;
+	margin-bottom: 60px;
+	color: #EAF6F6;
+	border-style: none;
+	border-top: dotted 8px;
+	width: 5%;
+
+}
+.programming
+{
+	margin-right: 30px;
+	float: left;
+	border-radius: 100%;
+	height: 150px;
+	width: 150px;
+}
+h3
+{
+	color: #66BFBF;
+	font-family:'Rubik', sans-serif;
+	font-size: 20px;
+}
+.skills
+{
+	margin: 0 auto 0 auto;
+	width: 50%;
+}
+.programming-skill
+{
+	line-height: 1.5;
+	text-align: left;
+
+}
+.programming-skill-heading
+{
+	color: #11999E;
+	text-align: left;
+}
+.music
+{
+	margin-right: 30px;
+	float: right; 
+	border-radius: 100%;
+	height: 150px;
+	width: 150px;
+}
+.skill-row
+{
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+.hobbies
+{
+
+	text-align: left;
+}
+.my-hobbies
+{
+	color: #11999E;
+	text-align: left;
+}
+.music
+{
+	margin-left: 30px;
+}
+.contact-me
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.bottom-container
+{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #66BFBF;
+}
+.copy
+{
+	color: #EAF6F6;
+	font-size: 15px;
+}
+.footer-link
+{
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 30px;
+	color: #11999E;
+}
+.intro
+{
+	margin: 0 auto 0 auto;
+	width: 30%;
+}
+.btn
+{
+	background-color: skyblue;
+	height: 40px;
+	width: 150px;
+	border-radius: 2%;
+}
+.btn:hover
+{
+	 color: white;
+}
